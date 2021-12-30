@@ -10,7 +10,7 @@ Esse projeto foi criado com React.JS
 
 
 
-## Learn More
+## Contato
 
-Conheça meu Instagram: 
-### https://www.instagram.com/gustavobarreto.dev/ 
+### Conheça meu Instagram: 
+## https://www.instagram.com/gustavobarreto.dev/ 
